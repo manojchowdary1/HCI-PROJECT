@@ -89,7 +89,7 @@ const Index = () => {
               </div>
               <div className="rounded-lg overflow-hidden shadow-xl">
                 <img 
-                  src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&w=800&q=80" 
+                  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mahindrauniversity.edu.in%2Fprograms%2Fbachelors-in-design-program%2F&psig=AOvVaw1zCqCIydC60tO03s0lc4rd&ust=1747159527167000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjm4NPCno0DFQAAAAAdAAAAABA8" 
                   alt="Student studying with laptop"
                   className="w-full h-auto object-cover"
                 />
