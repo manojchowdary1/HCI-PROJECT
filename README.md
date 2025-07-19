@@ -1,25 +1,5 @@
-<<<<<<< HEAD
-#
-##
-## How can I edit this code?
 
-There are several ways of editing your application.
 
-*
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/927156c4-ce7a-43ff-91ce-1682720a649c) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-*
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
 # Step 1: Clone the repository using the project's Git URL.
 git clone <YOUR_GIT_URL>
 
@@ -57,17 +37,8 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/927156c4-ce7a-43ff-91ce-1682720a649c) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
 
 Yes, you can!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
-=======
-# HCI-PROJECT
 >>>>>>> 2b900b66fa2ceb43b7f46c1f202e7c10c587adc1
